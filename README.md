@@ -1,6 +1,6 @@
 # St Padre Pio Pharma — SQL & Excel Sales Analysis
 
-A SQL and Excel analysis of a pharmacy retail sales dataset, built around a specific set of business questions rather than open-ended exploration.
+A SQL and Excel analysis of a pharmacy retail sales dataset, built around a specific set of business questions.
 
 St Padre Pio Pharma is a fictional company created for this portfolio — the dataset was shaped and cleaned specifically to answer real business questions, the same way a working analyst would approach a stakeholder request.
 
@@ -21,21 +21,21 @@ This analysis was driven by five specific questions, decided before writing any 
 
 ## SQL Analysis
 
-![SQL query example](assets/case-sqlite.png)
+![SQL query example](case-sqlite.png)
 
-📄 [Download the SQL file](assets/sql%20file.sql?raw=true)
+📄 [Download the SQL file](sql%20file.sql?raw=true)
 
 ## Excel Dashboard
 
 KPIs were used to summarize key findings at a glance, backed by an Insights page that walks through each chart's takeaway.
 
-![Excel Dashboard](assets/st-padrepio-excel-dashboard.png)
+![Excel Dashboard](st-padrepio-excel-dashboard.png)
 
 Sample KPI:
 
-![KPI sample](assets/KPI-sample-excel.png)
+![KPI sample](KPI-sample-excel.png)
 
-📊 [Download the Excel workbook](assets/st%20padre%20pio%20portfolio(insights).xlsx?raw=true)
+📊 [Download the Excel workbook](st%20padre%20pio%20portfolio%28insights%29.xlsx?raw=true)
 
 ## Key Findings
 
