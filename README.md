@@ -22,8 +22,7 @@ This analysis was driven by five specific questions, decided before writing any 
 ## SQL Analysis
 
 ![SQL query example](case-sqlite.png)
-
-📄 [Download the SQL file](sql%20file.sql?raw=true)
+📄 [Download the SQL file](./sql%20file.sql)
 
 ## Excel Dashboard
 
@@ -35,7 +34,7 @@ Sample KPI:
 
 ![KPI sample](KPI-sample-excel.png)
 
-📊 [Download the Excel workbook](st%20padre%20pio%20portfolio%28insights%29.xlsx?raw=true)
+📊 [Download the Excel workbook](./st%20padre%20pio%20portfolio%28insights%29.xlsx)
 
 ## Key Findings
 
